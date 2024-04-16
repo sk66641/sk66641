@@ -1,2 +1,1 @@
-# this is my private repo
-## workflow for local git : clone github repo, make changes, add, commit, push.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sk66641&label=Profile%20views&color=0e75b6&style=flat" alt="sk66641" /> </p>
