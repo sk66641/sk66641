@@ -4,8 +4,8 @@ A passionate Computer Science Student
 
 ## 🛠 Skills
 
- <table align="center" style="text-align: center;">
-        <tr>
+ <table>
+        <tr style="text-align: center;">
             <td><img height="50" title="HTML"
                     src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
             </td>
@@ -31,7 +31,7 @@ A passionate Computer Science Student
                     src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">
             </td>
         </tr>
-        <tr>
+        <tr style="text-align: center;">
             <td>HTML</td>
             <td>CSS</td>
             <td>JavaScript</td>
