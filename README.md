@@ -1,13 +1,10 @@
 
-# Hi, I'm Sanu Kumar! 👋
-
+<h1 align="center">Hi, I'm Sanu Kumar! 👋</h1>
 A passionate Computer Science Student
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sk66641&label=Profile%20views&color=0e75b6&style=flat" alt="sk66641" /> </p>
 
 ## 🛠 Skills
 
- <table style="text-align: center;">
+ <table align="center">
         <tr>
             <td><img height="50" title="HTML"
                     src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
@@ -48,6 +45,9 @@ A passionate Computer Science Student
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sk66641&show_icons=true&locale=en&layout=compact" alt="sk66641" /></p> -->
 
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=sk66641&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Connect with me:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanu-kumar-2a9492283/)
@@ -57,6 +57,9 @@ A passionate Computer Science Student
 sanukumar66641@gmail.com
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sk66641&label=Profile%20views&color=0e75b6&style=flat" alt="sk66641" /> </p>
+
+
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=sk66641&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
