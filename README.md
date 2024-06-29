@@ -51,11 +51,8 @@ A passionate Computer Science Student
 ## Connect with me:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanu-kumar-2a9492283/)
-[![gmail](https://img.shields.io/badge/gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=red)](sanukumar66641@gmail.com)
 
-### Email:
-
-sanukumar66641@gmail.com
+[sanukumar66641@gmail.com](sanukumar66641@gmail.com)
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sk66641&label=Profile%20views&color=0e75b6&style=flat" alt="sk66641" /> </p>
