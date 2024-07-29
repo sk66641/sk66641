@@ -63,6 +63,6 @@ A passionate Computer Science Student
 </p>
 
 ---
-<p align="center">
+<!-- <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
+</p> -->
