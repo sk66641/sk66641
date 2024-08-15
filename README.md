@@ -1,8 +1,6 @@
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
 <h1 align="center">Hi there, I'm Sanu 👋</h1>
-
 
 ### 💫 About Me
 
@@ -25,9 +23,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sk66641&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
-
 ## 🎖 GSSoC'24 Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
@@ -38,13 +33,9 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
 </div>
 
-
 ## 🌐 Let's Connect
 
-
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanu-kumar-2a9492283/)
-
-<span style="background-color: darkblue; padding: 5px; border-radius: 5px;">sanukumar66641@gmail.com</span>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
@@ -60,7 +51,6 @@
 
 </div>
 
-
 ---
 
 <p align="center">
@@ -74,6 +64,7 @@
 </p>
 
 ---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sk66641&label=Profile%20views&color=red&style=flat" alt="sk66641" /> </p>
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
