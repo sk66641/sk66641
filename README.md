@@ -1,68 +1,81 @@
 
-<h1 align="center">Hi, I'm Sanu Kumar! 👋</h1>
-A passionate Computer Science Student
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
-## 🛠 Skills
+<h1 align="center">Hi there, I'm Sanu 👋</h1>
 
- <table>
-        <tr align="center">
-            <td><img height="50" title="HTML"
-                    src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
-            </td>
-            <td><img height="50" title="CSS"
-                    src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
-            </td>
-            <td><img height="45" title="JavaScript"
-                    src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
-            </td>
-            <td><img height="50" title="C"
-                    src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png">
-            </td>
-            <td><img height="50" title="C++"
-                    src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png">
-            </td>
-            <td><img height="50" title="Python"
-                    src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
-            </td>
-            <td><img height="50" title="Git"
-                    src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
-            </td>
-            <td><img height="50" title="GitHub"
-                    src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">
-            </td>
-        </tr>
-        <tr align="center">
-            <td>HTML</td>
-            <td>CSS</td>
-            <td>JavaScript</td>
-            <td>C</td>
-            <td>C++</td>
-            <td>Python</td>
-            <td>Git</td>
-            <td>GitHub</td>
-        </tr>
-    </table>
+
+### 💫 About Me
+
+- 🎓 I'm a passionate Computer Science Student
+- 🌱 I’m currently learning DSA and working on Web Development
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sk66641&show_icons=true&locale=en&layout=compact" alt="sk66641" /></p> -->
 
----
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
+
+<div align="center">
+
+<a href="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,vite,mongodb,postman,cpp,git,github,linux,python&perline=11">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,vite,mongodb,postman,cpp,git,github,linux,python&perline=11" />
+</a>
+
+</div>
+
+## 🏆 Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=sk66641&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Connect with me:
+
+
+
+## 🎖 GSSoC'24 Badges
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+</div>
+
+
+## 🌐 Let's Connect
+
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanu-kumar-2a9492283/)
 
-[sanukumar66641@gmail.com](sanukumar66641@gmail.com)
+<span style="background-color: darkblue; padding: 5px; border-radius: 5px;">sanukumar66641@gmail.com</span>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<div align="center">
+
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sk66641&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sk66641&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sk66641&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sk66641&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sk66641&theme=radical&utcOffset=8">
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=sk66641&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=sk66641&theme=radical">
+
+</div>
+
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sk66641&label=Profile%20views&color=0e75b6&style=flat" alt="sk66641" /> </p>
-
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sk66641&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee 🙂</b>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/siddheyakue" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
+  </a>
 </p>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sk66641&label=Profile%20views&color=red&style=flat" alt="sk66641" /> </p>
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
