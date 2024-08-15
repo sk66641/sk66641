@@ -11,20 +11,17 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
-<div align="center">
-
 <a href="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,vite,mongodb,postman,cpp,git,github,linux,python&perline=11">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,vite,mongodb,postman,cpp,git,github,linux,python&perline=11" />
 </a>
-
-</div>
 
 ## 🏆 Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sk66641&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🎖 GSSoC'24 Badges
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+## [🎖](https://gssoc.girlscript.tech/leaderboard?year=2024) GSSoC'24 Badges
+
+<div style='display:flex; gap: 10px;'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
