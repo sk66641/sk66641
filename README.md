@@ -5,7 +5,7 @@
 ### 💫 About Me
 
 - 🎓 I'm a second year computer science student
-- 🌱 I’m currently learning DSA and working on Web Development
+- 🌱 I’m currently exploring Backend Web Development
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sk66641&show_icons=true&locale=en&layout=compact" alt="sk66641" /></p> -->
 
