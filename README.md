@@ -23,11 +23,11 @@
 
 <div style='display:flex; gap: 10px;'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+  <img src="assets/1.png" width="100px" height="100px" />
+  <img src="assets/2.png" width="100px" height="100px" />
+  <img src="assets/3.png" width="100px" height="100px" />
+  <img src="assets/4.png" width="100px" height="100px" />
+  <img src="assets/5.png" width="100px" height="100px" />
 </div>
 
 ## 🌐 Let's Connect
@@ -66,6 +66,6 @@ sanukumar66641@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sk66641&label=Profile%20views&color=red&style=flat" alt="sk66641" /> </p>
 <p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
