@@ -4,7 +4,7 @@
 
 ### 💫 About Me
 
-- 🎓 I'm a second year computer science student
+- 🎓 I'm a third year computer science student
 - 🌱 Improving problem solving skills
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sk66641&show_icons=true&locale=en&layout=compact" alt="sk66641" /></p> -->
@@ -30,9 +30,9 @@
   <img src="assets/5.png" width="100px" height="100px" />
 </div>
 
-## 🌐 Let's Connect
+<!-- ## 🌐 Let's Connect
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanu-kumar-2a9492283/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com) -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
