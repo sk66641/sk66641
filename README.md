@@ -40,27 +40,27 @@
 
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sk66641&theme=radical">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sk66641&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sk66641&theme=radical">
+<!-- <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sk66641&theme=radical"> -->
 <!-- <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sk66641&theme=radical"> -->
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sk66641&theme=radical&utcOffset=8">
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=sk66641&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<!-- <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sk66641&theme=radical&utcOffset=8"> -->
+<!-- <img height="166em" src="https://github-readme-stats.vercel.app/api?username=sk66641&theme=radical&hide_border=false&include_all_commits=false&count_private=false"> -->
 <!-- <img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=sk66641&theme=radical"> -->
 
 </div>
 
 ---
 
-<p align="center">
-  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee 🙂</b>
-</p>
+<!-- <p align="center"> -->
+<!--   <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee 🙂</b> -->
+<!-- </p> -->
 
-<p align="center">
-  <a href="https://buymeacoffee.com/sk66641" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
-  </a>
-</p>
+<!-- <p align="center"> -->
+<!--   <a href="https://buymeacoffee.com/sk66641" target="_blank"> -->
+<!--     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/> -->
+<!--   </a> -->
+<!-- </p> -->
 
----
+<!-- --- -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sk66641&label=Profile%20views&color=red&style=flat" alt="sk66641" /> </p>
 <p align="center">
