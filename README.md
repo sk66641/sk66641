@@ -15,20 +15,20 @@
 <img src="https://skillicons.dev/icons?i=html,css,cpp,python,javascript,typescript,tailwind,react,nodejs,express,mongodb,postman,git,github,linux,go&perline=11" />
 </a>
 
-## 🏆 Trophies
+<!-- ## 🏆 Trophies -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sk66641)](https://github.com/sk66641/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sk66641)](https://github.com/sk66641/github-profile-trophy) -->
 
-## [🎖](https://gssoc.girlscript.tech/leaderboard?year=2024) GSSoC'24 Badges
+<!-- ## [🎖](https://gssoc.girlscript.tech/leaderboard?year=2024) GSSoC'24 Badges -->
 
-<div style='display:flex; gap: 10px;'>
-<img src="assets/postman.png" width="100px" height="100px" />
-  <img src="assets/1.png" width="100px" height="100px" />
-  <img src="assets/2.png" width="100px" height="100px" />
-  <img src="assets/3.png" width="100px" height="100px" />
-  <img src="assets/4.png" width="100px" height="100px" />
-  <img src="assets/5.png" width="100px" height="100px" />
-</div>
+<!-- <div style='display:flex; gap: 10px;'> -->
+<!-- <img src="assets/postman.png" width="100px" height="100px" /> -->
+  <!-- <img src="assets/1.png" width="100px" height="100px" /> -->
+  <!-- <img src="assets/2.png" width="100px" height="100px" /> -->
+  <!-- <img src="assets/3.png" width="100px" height="100px" /> -->
+  <!-- <img src="assets/4.png" width="100px" height="100px" /> -->
+  <!-- <img src="assets/5.png" width="100px" height="100px" /> -->
+<!-- </div> -->
 
 <!-- ## 🌐 Let's Connect
 
