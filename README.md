@@ -15,9 +15,9 @@
 <img src="https://skillicons.dev/icons?i=html,css,cpp,python,javascript,typescript,tailwind,react,nodejs,express,mongodb,postman,git,github,linux,go&perline=11" />
 </a>
 
-<!-- ## 🏆 Trophies -->
+## 🏆 Trophies
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sk66641)](https://github.com/sk66641/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=sk66641)](https://github.com/sk66641/github-profile-trophy)
 
 <!-- ## [🎖](https://gssoc.girlscript.tech/leaderboard?year=2024) GSSoC'24 Badges -->
 
@@ -38,8 +38,9 @@
 
 <div align="center">
 
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sk66641&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sk66641&theme=radical">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sk66641&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sk66641&theme=dark)
+<!-- <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sk66641&theme=radical"> -->
 <!-- <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sk66641&theme=radical"> -->
 <!-- <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sk66641&theme=radical"> -->
 <!-- <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sk66641&theme=radical&utcOffset=8"> -->
